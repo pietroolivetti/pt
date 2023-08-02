@@ -1,2 +1,1 @@
 edge-tts
-edge_tts
