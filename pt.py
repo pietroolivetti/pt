@@ -1,6 +1,6 @@
 import streamlit as st
 import subprocess
-import edge_tts
+#import edge_tts
 from gtts import gTTS
 
 
